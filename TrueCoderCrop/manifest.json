@@ -1,0 +1,11 @@
+{
+    "Name": "TrueCoderCrop",
+    "Author": "JessicaCottrill",
+    "Version": "1.0.0",
+    "Description": "Adding zuchinni.",
+    "UniqueID": "JessicaCottrill.TrueCoderCrop",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets",
+    }
+ }

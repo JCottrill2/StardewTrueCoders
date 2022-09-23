@@ -1,0 +1,27 @@
+{
+    "Name": "Zuchinni",
+    "Product": "Zuchinni",
+    "SeedName": "Zuchinni Seeds",
+	
+    "SeedDescription": "Plant in spring for a delicious green veggie. Takes 2 days to mature.",
+	
+    "Type": "Vegetable",
+
+    "Seasons": ["spring" ],
+    "Phases": [ 1, 1, 1, 1 ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+	
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.0
+    },
+		
+	"SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 20,
+	"SeedSellPrice": 10
+}

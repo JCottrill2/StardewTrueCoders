@@ -1,0 +1,57 @@
+{
+	"Name": "Zuchinni and Scrambled Eggs", 
+	"Description": "Sauteed Zuchinni with Scrambled Eggs. Yummy!", 
+	"Category": "Cooking", 
+  
+	"Edibility": 60, 
+	"EdibleIsDrink": false, 
+  
+	"EdibleBuffs": {
+					"Farming": 0,
+					"Fishing": 0,
+					"Mining": 0,
+					"Luck": 0,
+					"Foraging": 0,
+					"MaxStamina": 0,
+					"MagnetRadius": 0,
+					"Speed": 0,
+					"Defense": 2, 
+					"Attack": 0,
+					"Duration": 120 
+  },
+  
+	"Price": 150, 
+  
+	"IsColored": false, 
+  
+	"Recipe": {
+			  "ResultCount": 1, 
+			  
+			  "Ingredients": [
+								{
+								   "Object": "Zuchinni", 
+								   "Count": 2
+								},
+								{
+								   "Object": "Eggs", 
+								   "Count": 2
+								}
+			      ],
+			   
+			   "IsDefault": "True", 
+			   
+			   "CanPurchase": "True", 
+			   "PurchaseFrom": "Gus", 			   
+			   "PurchasePrice": 100, 
+			   
+			   "PurchaseRequirements": ["f Gus 250"]
+			},
+  
+	"GiftTastes": { 
+					"Love": [ "Pam", "Alex"], 
+					"Like": [ "Leah", "Lewis" ], 
+"Neutral": [ "Emily" ], 
+					"Dislike": [ "Jas", "Vincent" ], 
+					"Hate": [  "Haley" ]	
+	}
+}

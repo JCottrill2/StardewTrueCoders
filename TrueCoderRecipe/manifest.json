@@ -1,0 +1,11 @@
+{
+    "Name": "TrueCoderRecipe",
+    "Author": "JessicaCottrill",
+    "Version": "1.0.0",
+    "Description": "Scrambled Eggs and Zuchinni.",
+    "UniqueID": "JessicaCottrill.TrueCoderRecipe",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets",
+   }
+ }

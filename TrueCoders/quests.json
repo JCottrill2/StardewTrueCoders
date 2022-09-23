@@ -1,0 +1,31 @@
+{
+  "Format": "1.0",
+  "Quests": [
+    {
+      "Name": "zuchinni_scrambledeggs",
+      "Type": "ItemDelivery",
+      "Title": "Zuchinni and Scrambled Eggs",
+      "Description": "I want to make my favorite dish, taught to me by Jessica. Please bring me 2 eggs",
+      "Objective": "Bring eggs to Emily",
+      "DaysLeft": 5,
+      "Reward": 60,
+      "RewardType": "Money",
+      "Cancelable": true,
+      "Trigger": "Emily 180",
+      "ReactionText": "This is perfect, @! I will get started right away!",
+      "FriendshipGain": {
+        "Emily": 100
+      }
+    }
+  ],
+  "Offers": [
+    {
+      "QuestName": "zuchinni_scrambledeggs",
+      "OfferedBy": "Bulletinboard",
+      "When": {
+        "DaysOfWeek": "Monday Thursday Friday",
+        "Seasons": "spring fall"
+      }
+    }
+  ]
+}
